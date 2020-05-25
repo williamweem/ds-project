@@ -13,9 +13,9 @@ To build the model, we have done the following:
 2. Try different models, such as XGBoost, Catboost, Random Forest, Logistic Regression, and K-Nearest Neighbour
     - After trying different combination, we choose Catboost and Random Forest as our best models
 3. Select the features we want to include using feature importance and SHAP value
-4. Build a stacked model to combine our Catboost and Random Forest model. The next layer of the stacked model is a simple logistic regression.
+4. Build a stacked model to combine our Catboost and Random Forest model. The next layer of the stacked model is a simple logistic regression
 5. Validate the model
 
 ## Project Result
 
-The model got 98,19% validation accuracy at the end of the training phase, and unfortunately the competition has been postponed due to the Coronavirus pandemic. I will update this repo if there are any changes in the final stage later
+The model got 98,19% validation accuracy at the end of the training phase, and unfortunately the competition has been postponed due to the Coronavirus pandemic. I will update this repo if there are any changes in the final stage later.
